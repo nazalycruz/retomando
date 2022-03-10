@@ -1,0 +1,11 @@
+C:\Users\Programador_02\Documents\Practicando\Pract\Pract\bin\Debug\Pract.exe.config
+C:\Users\Programador_02\Documents\Practicando\Pract\Pract\bin\Debug\Pract.exe
+C:\Users\Programador_02\Documents\Practicando\Pract\Pract\bin\Debug\Pract.pdb
+C:\Users\Programador_02\Documents\Practicando\Pract\Pract\obj\Debug\Pract.csprojAssemblyReference.cache
+C:\Users\Programador_02\Documents\Practicando\Pract\Pract\obj\Debug\Pract.Properties.Resources.resources
+C:\Users\Programador_02\Documents\Practicando\Pract\Pract\obj\Debug\Pract.csproj.GenerateResource.cache
+C:\Users\Programador_02\Documents\Practicando\Pract\Pract\obj\Debug\Pract.csproj.CoreCompileInputs.cache
+C:\Users\Programador_02\Documents\Practicando\Pract\Pract\obj\Debug\Pract.exe
+C:\Users\Programador_02\Documents\Practicando\Pract\Pract\obj\Debug\Pract.pdb
+C:\Users\Programador_02\Documents\Practicando\Pract\Pract\obj\Debug\Pract.GUI.ContactDetails.resources
+C:\Users\Programador_02\Documents\Practicando\Pract\Pract\obj\Debug\Pract.Main.resources
